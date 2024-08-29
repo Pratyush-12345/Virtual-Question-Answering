@@ -1,4 +1,4 @@
-# Virtual-Question-Answering
+# Visual-Question-Answering
 This repository contains a Visual Question Answering (VQA) model trained on a large dataset of image-question-answer triplets. The model combines computer vision and natural language processing techniques to answer questions about images.
 
 ## Dataset
